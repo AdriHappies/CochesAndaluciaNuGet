@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>CochesAndaluciaAFG10</PackageId>
+    <Authors>Adri Felices</Authors>
+    <Company>ADHAPPIES</Company>
+    <Description>Listado de coches del aula de EOI de la clase del martes</Description>
+    <PackageIcon>32046c6fb666d7b3c2525190e4fc4575.jpg</PackageIcon>
+    <PackageIconUrl />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\..\..\Cosicah\32046c6fb666d7b3c2525190e4fc4575.jpg">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
